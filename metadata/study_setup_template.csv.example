@@ -1,0 +1,2 @@
+participant_id,raw_export_dir,device_model,device_identifier,timezone_offset_minutes,first_available_night_local,last_available_night_local,control_start_night_local,control_end_night_local,walk_start_night_local,walk_end_night_local,home_city,knmi_station_code,notes
+P0X,team_data/raw/P0X/<original_export_folder>,,,,,,YYYY-MM-DD,YYYY-MM-DD,YYYY-MM-DD,YYYY-MM-DD,Eindhoven,370,
